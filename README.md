@@ -10,7 +10,7 @@ for development -> takes IOS simulator only.
 ## Viewing Live
 - IOS: https://raw.githubusercontent.com/smacknat/React-Native-Game-Test/master/public/images/preview_images/SaveDoggie-preview.gif
 
-## Example Images
+## Example Images (09/09/18)
 | O.P | Panel | |
 | --- | --- | --- |
 | `IOS` | Game Play | ![SaveDoggie-preview-page](public/images/preview_images/SaveDoggie-preview.gif) |
